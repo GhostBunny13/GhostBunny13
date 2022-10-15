@@ -2,8 +2,7 @@
 - 👀 I’m interested in javascript, python
 
 ## donate
-[kofi](https://ko-fi.com/ghostb13)
-
+[ko-fi](https://ko-fi.com/ghostb13)<br/>
 bitcoin: bc1qu9dgx40jfnd87wghclnf7u44zm0s0ugdsf54vh
 
 
